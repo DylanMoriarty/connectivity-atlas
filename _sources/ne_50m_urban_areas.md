@@ -10,6 +10,4 @@ tags:
 themes: all
 fill-color: '#00f881'
 fill-opacity: 0.4
-line-color: '#00f881'
-line-width: 0.5
 ---
